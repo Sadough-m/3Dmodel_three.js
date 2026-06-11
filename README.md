@@ -2,6 +2,22 @@
 
 A React + Vite 3D viewer built with Three.js, GSAP, and Tailwind CSS. This project loads an STL model, renders it in a responsive WebGL canvas, and allows adding/removing interactive spheres with live controls.
 
+## 🎯 Project Goal
+
+The goal of the task is:
+Develop an interactive web application with the following features:
+
+1. Create a 3D model
+   - Load the provided 3D model (STL file, attached to the email) into your application.
+   - The model should be visualized in the browser.
+2. Interaction in 3D space
+   - Implement the ability to insert spheres (balls) into the scene.
+   - The balls should have different sizes and different colors.
+3. Navigation in space
+   - Consider a sensible way for users to orient themselves and move around in 3D space.
+   - The goal is to be able to quickly and easily view each inserted ball.
+   - The specific implementation is left open and is up to you.
+
 ## 🚀 Features
 
 - STL model loading with `three/examples/jsm/loaders/STLLoader`
