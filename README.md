@@ -9,7 +9,7 @@ Develop an interactive web application with the following features:
 
 1. Create a 3D model
 
-   - Load the provided 3D model (STL file, attached to the email) into your application.
+   - Load the provided 3D model (STL file, attached to the email) into your application.,
    - The model should be visualized in the browser.
 2. Interaction in 3D space
    - Implement the ability to insert spheres (balls) into the scene.
